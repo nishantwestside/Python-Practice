@@ -1,0 +1,6 @@
+a1=float(input("Enter the point a1: "))
+a2=float(input("Enter the point a2: "))
+b1=float(input("Enter the point b1: "))
+b2=float(input("Enter the point b2: "))
+distance=((((a2 - a1 )**2) + ((b2-b1)**2) )**0.5)
+print("The Distance between two points: ", distance)

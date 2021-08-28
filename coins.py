@@ -1,0 +1,6 @@
+ten=int(input("Enter the Ten Rs. coins quantity: "))
+five=int(input("Enter the Five Rs. coins quantity: "))
+two=int(input("Enter the Two Rs. coins quantity: "))
+one=int(input("Enter the One Rs. coins quantity: "))
+total=((10*ten)+(5*five)+(2*two)+(1*one))
+print("Total amount of money: ",total)
